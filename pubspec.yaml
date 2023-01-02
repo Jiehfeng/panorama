@@ -11,7 +11,9 @@ dependencies:
     sdk: flutter
   flutter_cube: ^0.1.1
   motion_sensors: ^0.1.0
-  video_player: ^2.4.10
+  video_player:
+    git:
+      url: https://github.com/Jiehfeng/video_player_extra.git
 
 dev_dependencies:
   flutter_test:
