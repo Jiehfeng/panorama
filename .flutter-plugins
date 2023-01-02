@@ -1,6 +1,6 @@
 # This is a generated file; do not edit or check into version control.
 motion_sensors=C:\\Users\\alain\\Documents\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\motion_sensors-0.1.0\\
-video_player=C:\\Users\\alain\\Documents\\flutter\\.pub-cache\\git\\video_player_extra-790475ab75f19f1b44f09c55e5dc7302465eb7de\\
-video_player_android=C:\\Users\\alain\\Documents\\flutter\\.pub-cache\\git\\video_player_android-1e362f9c8910bd46c45ada536940fcae5aaca931\\
-video_player_avfoundation=C:\\Users\\alain\\Documents\\flutter\\.pub-cache\\git\\video_player_avfoundation-6710d88af637cccc4c5361ae7a28bdd9bad45b10\\
-video_player_web=C:\\Users\\alain\\Documents\\flutter\\.pub-cache\\git\\video_player_web-32d0118acf24f93c8777134c7b31df5a6a9d20da\\
+video_player=C:\\Users\\alain\\Documents\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\video_player-2.4.10\\
+video_player_android=C:\\Users\\alain\\Documents\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\video_player_android-2.3.10\\
+video_player_avfoundation=C:\\Users\\alain\\Documents\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\video_player_avfoundation-2.3.8\\
+video_player_web=C:\\Users\\alain\\Documents\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\video_player_web-2.0.13\\
